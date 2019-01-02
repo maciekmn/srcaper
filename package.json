@@ -1,0 +1,19 @@
+{
+  "name": "node-srcaper",
+  "version": "1.0.0",
+  "description": "test srcaper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maciekmn/node-srcaper.git"
+  },
+  "author": "Maciej B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maciekmn/node-srcaper/issues"
+  },
+  "homepage": "https://github.com/maciekmn/node-srcaper#readme"
+}
