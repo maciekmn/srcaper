@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maciekmn/node-srcaper.git"
+    "url": "git+https://github.com/maciekmn/srcaper.git"
   },
   "author": "Maciej B",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maciekmn/node-srcaper/issues"
+    "url": "https://github.com/maciekmn/srcaper/issues"
   },
-  "homepage": "https://github.com/maciekmn/node-srcaper#readme"
+  "homepage": "https://github.com/maciekmn/srcaper#readme"
 }
